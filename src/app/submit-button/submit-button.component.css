@@ -1,0 +1,20 @@
+.button button{
+    margin: 10px;
+    background-color: blueviolet;
+    color: white;
+
+    border-radius: 20px;
+    border-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+:hover{
+    color: black;
+}

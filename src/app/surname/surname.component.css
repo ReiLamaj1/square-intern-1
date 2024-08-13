@@ -1,0 +1,17 @@
+.surname{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.surname input{
+    border-radius: 3px;
+    width: 200px;
+    height: 20px;
+    border-color: blueviolet;
+    background-color: transparent;
+}
+.surname label{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
