@@ -1,0 +1,26 @@
+{
+    "list":[{
+        "CompanyType":"IT company",
+        "JobType1":"Web Developer",
+        "JobType2":"Software Developer",
+        "JobType3":"Network Engeeniring",
+        "JobType4":"Software Engeenering"
+    },
+{
+
+},
+{
+    "CompanyType":"Bussines",
+    "JobType1":"Finance",
+    "JobType2":"Business Addminstration",
+    "JobType3":"Ecomonics",
+    "JobType4":"Bussiness IT"
+},
+{
+    "item":"4",
+    "type":"food",
+    "location":"Argentina",
+    "name":"Banana"
+}
+]
+}
