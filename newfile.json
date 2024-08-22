@@ -7,7 +7,6 @@
         "JobType4":"Software Engeenering"
     },
 {
-
 },
 {
     "CompanyType":"Bussines",
@@ -15,12 +14,6 @@
     "JobType2":"Business Addminstration",
     "JobType3":"Ecomonics",
     "JobType4":"Bussiness IT"
-},
-{
-    "item":"4",
-    "type":"food",
-    "location":"Argentina",
-    "name":"Banana"
 }
 ]
 }

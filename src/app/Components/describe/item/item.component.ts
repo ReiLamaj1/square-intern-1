@@ -1,5 +1,5 @@
 import { Component,Input } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Job } from '../../../models/job';
 
 @Component({
   selector: 'app-item',
@@ -9,5 +9,5 @@ import { CommonModule } from '@angular/common';
   styleUrl: './item.component.css'
 })
 export class ItemComponent {
-  @Input() item:any;
+  @Input() item:Job={} as Job;
 }
